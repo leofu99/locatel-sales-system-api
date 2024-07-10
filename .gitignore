@@ -1,0 +1,14 @@
+# Python
+*.pyc
+__pycache__
+venv/
+*.sqlite3
+
+# Django
+*.log
+*.pot
+*.pyc
+local_settings.py
+db.sqlite3
+media/
+static/
